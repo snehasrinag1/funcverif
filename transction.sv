@@ -1,15 +1,15 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: Snehasri Roberts
 // 
 // Create Date: 07/26/2025 02:51:36 PM
-// Design Name: 
+// Design Name: tb
 // Module Name: transction
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
-// Description: 
+// Description: Generates data(in transaction class) and moves it from generator to driver with the help of a mailbox
 // 
 // Dependencies: 
 // 
